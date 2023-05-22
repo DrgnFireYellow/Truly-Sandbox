@@ -1,0 +1,102 @@
+{
+    "formatVersion": 1,
+    "game": "minecraft",
+    "versionId": "1.0.0",
+    "name": "Truly Sandbox",
+    "files": [
+        {
+            "path": "mods/chipped-forge-1.18.2-2.0.1.jar",
+            "hashes": {
+                "sha1": "9ee8bc9cf7a95a48447b4f116ed71232610b2d0b",
+                "sha512": "bc81e160fc81f27c14034bb1c511b2b11a1a663d2217e53c192437567ab2aa8d3d4afcb1abc45ef1f8ec68ea12c7d7469cb8160857860b05a732e974624e6d99"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/BAscRYKm/versions/EIEkq4fv/chipped-forge-1.18.2-2.0.1.jar"
+            ],
+            "fileSize": 20244446
+        },
+        {
+            "path": "mods/create-1.18.2-0.5.1.a.jar",
+            "hashes": {
+                "sha1": "6b1818d2e6ef7be819c9897e206808205293593f",
+                "sha512": "0c6b872fb8d25458bc632c2178ac2fd18331910214ff6f99f3985ffcbbf2da8be5f08f68a8b44f3b4e0414f8a3418621831dd4aea560cdfbe264b225e6202f98"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/LNytGWDc/versions/8LczbIGv/create-1.18.2-0.5.1.a.jar"
+            ],
+            "fileSize": 14563615
+        },
+        {
+            "path": "mods/eureka-1.1.0-beta.9.jar",
+            "hashes": {
+                "sha1": "424ed8d77cc0f624b23f1eac5d140c7f02567964",
+                "sha512": "dee4e4ce8acf2b7049581fcaeb2d37bf77b61b14001a799a1863855ba79bcc6f3f91cecdb17f5761f421e1b1329bc972856532e9ad7161632ed3df60858cd689"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/EO8aSHxh/versions/y6VYLPRx/eureka-1.1.0-beta.9.jar"
+            ],
+            "fileSize": 375127
+        },
+        {
+            "path": "mods/MouseTweaks-forge-mc1.18-2.22.jar",
+            "hashes": {
+                "sha1": "8de9df6854e267cb585d9b47447a46476cbf3b61",
+                "sha512": "4a3fd781552f51c6a958d767fc900d1835328be168911df79d87e4457d61187a2a0e188b795e06a4690731d89149af1c92325c2b8795620a3b94f1dd72aecd91"
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.18-2.22-forge/MouseTweaks-forge-mc1.18-2.22.jar"
+            ],
+            "fileSize": 76345
+        },
+        {
+            "path": "mods/resourcefullib-forge-1.19.2-1.1.24.jar",
+            "hashes": {
+                "sha1": "24f99c9a70db499f868388964eeb119d74328977",
+                "sha512": "d960dca1a166da8dabf15d5e57c1fe1224e5eb91f7712ead223e867db51aff66534cc65f1528e2f11e6dae62796ddbe210ff992b896e96fce2adc2b8c0e4c97c"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/G1hIVOrD/versions/VdgtVVWP/resourcefullib-forge-1.19.2-1.1.24.jar"
+            ],
+            "fileSize": 231039
+        },
+        {
+            "path": "mods/valkyrienskies-118-2.1.0-beta.12.jar",
+            "hashes": {
+                "sha1": "cdb80adb11af752ac4d24f7008c6cdd39e65f7ff",
+                "sha512": "ec03b7efcfbbe36faab97549dc337ca7d2966493ef7db0fac1c49b05062ff3c557c1f5ce4729b8bc03e42b7628d301f9b07c3215183fd6f72498892c668a5954"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/V5ujR2yw/versions/YRlhjE2H/valkyrienskies-118-2.1.0-beta.12.jar"
+            ],
+            "fileSize": 11314617
+        }
+    ],
+    "dependencies": {
+        "forge": "40.2.4",
+        "minecraft": "1.18.2"
+    }
+}
